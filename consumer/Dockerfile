@@ -1,4 +1,5 @@
-FROM openjdk:17-jdk-alpine
+FROM docker.io/eclipse-temurin:17-jdk-ubi9-minimal
+#FROM openjdk:17-jdk-alpine
 
 WORKDIR /app
 
