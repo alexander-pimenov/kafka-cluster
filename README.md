@@ -1,4 +1,5 @@
 # kafka-cluster
+Источники:<br>
 [Работа Apache Kafka на примерах. Поднимаем Kafka Cluster используя docker-compose](https://habr.com/ru/articles/738874/)
 
 [Apache Kafka и Spring Boot: лёгкая интеграция](https://habr.com/ru/companies/slurm/articles/772818/)
